@@ -1,0 +1,1 @@
+for /f %%i in (cmd指令.txt)  do @echo %i
