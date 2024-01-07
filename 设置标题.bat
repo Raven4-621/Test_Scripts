@@ -1,4 +1,5 @@
+chcp 65001
 @echo off
-title 中文标题
-echo 测试中文
+title 涓枃鏍囬
+echo 娴嬭瘯涓枃
 pause
